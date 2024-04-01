@@ -9,7 +9,7 @@ The steps invloved in genome-wide association study of case-controls settings:
          
          C) QC FMISS - missing rate check
 
-         D) relatedness check
+         D) relatedness and ancestry check
     
     2) SNP imputation
 
