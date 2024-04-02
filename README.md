@@ -15,6 +15,6 @@ The steps invloved in genome-wide association study of case-controls settings:
 
           A) QC imputation
     
-    3) Assocition analysis
+    3) Association analysis (cases-control)
 
     4) post-gwas analyeses
